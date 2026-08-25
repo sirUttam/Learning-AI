@@ -1,0 +1,9 @@
+Python is a general-purpose programming language known for its simple and readable syntax.
+
+Python uses indentation to define blocks of code. Functions are created with the def keyword.
+
+Exceptions are errors that occur during program execution. Python provides try and except blocks for handling exceptions.
+
+A virtual environment isolates a Python project's dependencies from other Python projects.
+
+Pip is Python's package installer. It can be used to install and manage packages from the Python Package Index.
